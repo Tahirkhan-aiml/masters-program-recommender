@@ -1,6 +1,6 @@
-University,Country,Program,Tuition_Fee,Language,Acceptance_Rate
-MIT,USA,Computer Science,50000,English,7%
-Oxford,UK,Data Science,40000,English,15%
-ETH Zurich,Switzerland,AI,30000,English,10%
-University of Toronto,Canada,ML,25000,English,20%
-TUM,Germany,AI and Robotics,1000,German,25%
+University,Program,Country,Subject,Tuition,IELTS,Min_GPA
+MIT,Computer Science,USA,Computer Science,50000,7.5,3.5
+Stanford,Data Science,USA,Data Science,55000,7.0,3.4
+Oxford,AI and Machine Learning,UK,Artificial Intelligence,45000,7.0,3.3
+ETH Zurich,Robotics,Switzerland,Engineering,30000,6.5,3.2
+University of Toronto,ML Research,Canada,Machine Learning,40000,6.5,3.0
