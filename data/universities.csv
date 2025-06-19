@@ -1,6 +1,21 @@
-University,Program,Country,Subject,Tuition,IELTS,Min_GPA
-MIT,Computer Science,USA,Computer Science,50000,7.5,3.5
-Stanford,Data Science,USA,Data Science,55000,7.0,3.4
-Oxford,AI and Machine Learning,UK,Artificial Intelligence,45000,7.0,3.3
-ETH Zurich,Robotics,Switzerland,Engineering,30000,6.5,3.2
-University of Toronto,ML Research,Canada,Machine Learning,40000,6.5,3.0
+University,Country,Field,Min GPA,IELTS
+MIT,USA,Computer Science,3.5,7.0
+Stanford University,USA,Engineering,3.6,7.0
+University of Toronto,Canada,Computer Science,3.3,6.5
+ETH Zurich,Switzerland,Data Science,3.4,7.5
+University of Melbourne,Australia,Business,3.2,6.5
+University of Oxford,UK,Engineering,3.7,7.0
+Harvard University,USA,Business,3.6,7.5
+University of British Columbia,Canada,Data Science,3.2,6.5
+TUM,Germany,Engineering,3.3,6.5
+National University of Singapore,Singapore,Computer Science,3.4,6.5
+University of Sydney,Australia,Engineering,3.2,6.5
+Cambridge University,UK,Computer Science,3.7,7.0
+McGill University,Canada,Business,3.2,6.5
+UC Berkeley,USA,Data Science,3.5,7.0
+University of Amsterdam,Netherlands,Engineering,3.3,6.5
+Aalto University,Finland,Computer Science,3.1,6.0
+University of Tokyo,Japan,Engineering,3.4,6.5
+INSEAD,France,Business,3.5,7.0
+Carnegie Mellon University,USA,Data Science,3.6,7.5
+KTH Royal Institute of Technology,Sweden,Engineering,3.3,6.5
